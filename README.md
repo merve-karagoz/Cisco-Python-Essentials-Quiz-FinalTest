@@ -16,3 +16,4 @@ Python Essentials kurs serisi  Türkçe olarak iki bölüme ayrılmıştır:
 
 Son olarak Final Testiyle modül tamamlanmaktadır.
 
+   https://pythoninstitute.org/
